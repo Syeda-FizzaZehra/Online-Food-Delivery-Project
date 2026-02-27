@@ -1,0 +1,294 @@
+restaurant_name,rating,total_revenue
+Delhi Darbar 176,3.5,13877.56
+Burger Factory 92,3.7,13162.58
+Urban Tadka 288,3.6,12386.439999999999
+Golden Spoon 41,4.9,11065.400000000001
+Saffron Delight 71,3.4,11001.43
+Saffron Delight 212,4.9,10926.5
+Pizza Junction 213,4.9,9479.48
+Chai & Chat 200,4.6,9419.76
+The Food Studio 147,4.7,9413.07
+Mumbai Masala 252,4.6,9088.22
+Spice Villa 295,4.4,8926.39
+Pizza Junction 161,4,8906.7
+Spice Villa 253,3.8,8782.96
+Kolkata Kitchen 56,3.9,8725.18
+Punjabi Dhaba 112,3,8374.05
+The Food Studio 86,3.7,8230.369999999999
+Dragon Wok 215,4,8108.650000000001
+Biryani House 201,3.8,8083.049999999999
+Pizza Junction 156,3.1,7956.839999999999
+Mumbai Masala 146,4.6,7868.080000000001
+Bombay Bistro 296,4.9,7841.9800000000005
+Punjabi Dhaba 276,4.9,7791.880000000001
+Delhi Darbar 120,4.4,7763.58
+Biryani House 285,4.4,7662.929999999999
+Chai & Chat 284,3.1,7649.6900000000005
+Dragon Wok 242,5,7591.4400000000005
+Golden Spoon 249,4.9,7541.990000000001
+Dragon Wok 158,3.8,7537.08
+Annapurna Bhavan 168,3.9,7496.389999999999
+Mughal Mahal 237,3.8,7457.34
+Delhi Darbar 155,3.8,7374.860000000001
+Golden Spoon 74,3.3,7271.419999999998
+Delhi Darbar 174,3.3,7169.8200000000015
+Masala Magic 55,4.1,7137.17
+The Curry Leaf 103,4.6,7027.01
+South Spice 93,4,6982.75
+Annapurna Bhavan 300,4.1,6956.080000000001
+The Curry Leaf 142,4,6948.589999999999
+Urban Tadka 259,4.1,6866.200000000001
+Masala Magic 63,4.7,6786.589999999999
+Chutney Express 172,3.1,6740.169999999999
+Dragon Wok 184,4.1,6702.089999999999
+Punjabi Dhaba 136,3,6686.82
+Flavours of India 35,3.9,6658.59
+Chutney Express 177,4.2,6648.5599999999995
+Punjabi Dhaba 233,3.2,6567.24
+South Spice 291,3.4,6539.18
+Mughal Mahal 164,4.1,6519.98
+Urban Tadka 269,5,6514.41
+The Food Studio 90,3.2,6476.27
+Burger Factory 88,4.3,6297.509999999999
+Annapurna Bhavan 218,4.2,6292.829999999999
+Punjabi Dhaba 196,3.6,6271.64
+Masala Magic 69,3.8,6266.34
+Golden Spoon 293,3.5,6241.83
+Mumbai Masala 135,3.6,6176.7
+Burger Factory 292,4.4,6170.3
+Dragon Wok 52,3.1,6141.66
+Curry Kingdom 12,4.1,6136.88
+The Hungry Panda 85,4.9,6110.710000000001
+Dragon Wok 79,3.6,6104.4400000000005
+The Food Studio 104,4.5,6095.200000000001
+Flavours of India 251,3.2,6030.7699999999995
+Curry Kingdom 91,3.5,6016.860000000001
+Chai & Chat 60,3.8,6008.48
+The Curry Leaf 230,3.6,5974.01
+Burger Factory 236,3.9,5930.620000000001
+The Hungry Panda 268,3.6,5905.0599999999995
+Kolkata Kitchen 122,3.9,5891.619999999999
+Dragon Wok 84,4.1,5886.62
+Delhi Darbar 24,3.6,5863.549999999999
+South Spice 219,3.3,5813.48
+South Spice 34,4.5,5793.37
+Mumbai Masala 96,5,5772.329999999999
+South Spice 3,4.2,5731.049999999999
+Golden Spoon 44,4.5,5708.910000000001
+Taste of Punjab 267,4.9,5697.450000000001
+Golden Spoon 203,3.7,5692.39
+The Curry Leaf 193,4.2,5691.4400000000005
+Kolkata Kitchen 73,3.1,5650.35
+Biryani House 133,4.3,5538.419999999999
+Pizza Junction 228,3,5537.71
+South Spice 145,4.2,5493.93
+Royal Tandoor 143,4.8,5409.789999999999
+Mumbai Masala 226,3.4,5377.349999999999
+Pizza Junction 40,4.2,5333.85
+South Spice 243,3.1,5328.49
+Curry Kingdom 179,4.9,5274.469999999999
+The Food Studio 77,4.2,5228.25
+Chai & Chat 214,4.7,5223.16
+Annapurna Bhavan 223,3.6,5209.3099999999995
+Royal Tandoor 54,4,5206.84
+Taste of Punjab 167,3.1,5153.389999999999
+The Hungry Panda 46,4.9,5077.009999999999
+Golden Spoon 67,4.8,5049.710000000001
+CafÃ© Masaledar 232,4.2,4988.42
+Masala Magic 238,4,4949.199999999999
+Chai & Chat 25,4.8,4910.43
+Rasoi Ghar 150,4,4845.139999999999
+Golden Spoon 255,3.4,4782.22
+Bombay Bistro 31,3.1,4735.75
+Tandoori Nights 127,4.5,4727.45
+Taste of Punjab 274,3.6,4711.2300000000005
+Masala Magic 117,4.2,4704.6
+Curry Kingdom 278,4.1,4661.41
+The Food Studio 94,4.3,4605.59
+Annapurna Bhavan 115,4.9,4588.650000000001
+Urban Tadka 286,3.2,4587.98
+Mughal Mahal 205,3.5,4586.87
+Dragon Wok 297,4.9,4564.41
+Golden Spoon 140,3.3,4557.620000000001
+Taste of Punjab 16,3.6,4522.62
+Rasoi Ghar 95,3,4502.08
+Masala Magic 21,4.4,4496.29
+Pizza Junction 148,4.5,4484.77
+Flavours of India 195,3.4,4410.94
+CafÃ© Masaledar 47,4.4,4406.02
+Biryani House 239,4.8,4390.06
+Royal Tandoor 4,3.4,4359.09
+Dragon Wok 220,5,4343.35
+The Food Studio 99,3.1,4317.79
+Annapurna Bhavan 126,3.3,4305.799999999999
+Spice Villa 159,4.5,4300.6900000000005
+Chutney Express 118,4.2,4286.45
+Delhi Darbar 181,4.4,4215.27
+Pizza Junction 207,3.4,4200.31
+Mumbai Masala 244,4,4171.86
+Rasoi Ghar 263,3.5,4130.07
+The Curry Leaf 154,3.3,4112.64
+Rasoi Ghar 250,3.9,4065.79
+Taste of Punjab 248,3.8,4061.2
+Delhi Darbar 198,4.4,4029.9900000000002
+Chai & Chat 53,3.1,3991.22
+Rasoi Ghar 188,3.3,3982.18
+Curry Kingdom 206,3.2,3953.8700000000003
+Saffron Delight 290,3.8,3921.0699999999997
+Mumbai Masala 83,3.9,3890.3999999999996
+Rasoi Ghar 13,4.2,3882.1099999999997
+Dragon Wok 28,3.8,3879.29
+Curry Kingdom 261,4.9,3820.41
+Golden Spoon 199,4.4,3795.3100000000004
+Masala Magic 80,4.4,3760.65
+Spice Villa 166,3.9,3753.88
+Flavours of India 51,4.1,3746.7400000000002
+CafÃ© Masaledar 66,3.8,3746.02
+Royal Tandoor 225,3.2,3702.709999999999
+Biryani House 235,4.6,3686.64
+Kolkata Kitchen 240,3.5,3650.35
+Chai & Chat 173,4.9,3638.62
+Chai & Chat 182,4.4,3607.1400000000003
+Flavours of India 61,3.4,3576.26
+Burger Factory 265,4.8,3560.02
+Delhi Darbar 254,4.2,3526.72
+Taste of Punjab 280,3.9,3497.9300000000003
+Burger Factory 134,4.6,3494.25
+The Curry Leaf 137,4.7,3491.6400000000003
+Madras Cafe 48,5,3476.5899999999997
+Masala Magic 162,3.1,3466
+Rasoi Ghar 157,4.8,3459.53
+Taste of Punjab 124,4.8,3449.34
+Annapurna Bhavan 272,4.7,3447.26
+Pizza Junction 20,3.9,3411.5099999999998
+Flavours of India 186,4.6,3398.63
+Madras Cafe 109,4.7,3397.4300000000003
+Mughal Mahal 229,3.6,3393.46
+Delhi Darbar 9,3.2,3387.91
+Kolkata Kitchen 70,4.4,3384.87
+Bombay Bistro 128,3.6,3377.89
+Chai & Chat 19,4.3,3342.24
+Chai & Chat 26,3.5,3329.29
+Biryani House 138,4.8,3294.2799999999997
+Bombay Bistro 211,4.4,3284.93
+Rasoi Ghar 191,3.6,3284.28
+Curry Kingdom 38,4,3254.68
+Rasoi Ghar 170,4.7,3238.72
+Curry Kingdom 287,3.3,3219.81
+Saffron Delight 175,3.2,3214.9300000000003
+Bombay Bistro 97,4.4,3167.79
+Chai & Chat 17,3.7,3156.61
+CafÃ© Masaledar 102,3.4,3135.88
+Flavours of India 169,4.5,3132.7
+Pizza Junction 256,3.9,3077.58
+Saffron Delight 277,3.7,3062.05
+Chai & Chat 294,3.5,3020.3399999999997
+Punjabi Dhaba 190,3.9,2962.9799999999996
+Curry Kingdom 187,4.3,2892.83
+Kolkata Kitchen 204,3.7,2883.38
+Madras Cafe 257,3.1,2874
+Royal Tandoor 289,3.7,2857.7
+The Curry Leaf 27,3.5,2846.1499999999996
+Annapurna Bhavan 32,4.1,2814.75
+Punjabi Dhaba 222,4.6,2798.23
+Spice Villa 121,4.4,2757.35
+Pizza Junction 33,4.4,2755.3599999999997
+The Hungry Panda 132,3.3,2712.52
+South Spice 185,4,2695.82
+Biryani House 260,3.9,2637.2999999999997
+Golden Spoon 270,4.1,2633.5499999999997
+Pizza Junction 98,3.2,2588.9800000000005
+Saffron Delight 101,3.7,2558.3599999999997
+Delhi Darbar 18,4.9,2543.1099999999997
+Dragon Wok 180,4.9,2531.56
+Urban Tadka 183,4.6,2517.46
+CafÃ© Masaledar 111,3.6,2506.03
+Mughal Mahal 59,4.3,2434.58
+Curry Kingdom 58,3.8,2434
+Pizza Junction 264,3.4,2424.52
+Tandoori Nights 130,4.3,2416.39
+Golden Spoon 275,5,2374.23
+The Hungry Panda 125,3.8,2361.01
+Chutney Express 100,3.3,2318.46
+Taste of Punjab 266,4.5,2236.04
+The Curry Leaf 202,4.2,2233.16
+Madras Cafe 141,4.6,2221.07
+The Food Studio 43,3.2,2182.36
+Golden Spoon 171,4.1,2138.26
+Taste of Punjab 160,4.5,2134.64
+Bombay Bistro 87,4.4,2129.05
+Flavours of India 163,3.3,2120.49
+Bombay Bistro 8,3.6,2117.1400000000003
+Taste of Punjab 108,3.3,2115.3
+Madras Cafe 14,4.3,2105.1200000000003
+The Hungry Panda 119,4.8,2079.63
+South Spice 123,3.6,2077.0499999999997
+Kolkata Kitchen 107,4.6,2029.0900000000001
+Mughal Mahal 50,3.4,2013.08
+Masala Magic 281,4.4,2012.0500000000002
+Pizza Junction 62,3.8,1982.6799999999998
+South Spice 227,3.5,1919.07
+Golden Spoon 149,4.5,1899.37
+Delhi Darbar 299,3.2,1864.71
+Saffron Delight 45,3.3,1854.71
+Masala Magic 37,4,1842.53
+Dragon Wok 139,4.4,1830.7199999999998
+Madras Cafe 6,3.4,1827.22
+Taste of Punjab 110,3.4,1825.52
+CafÃ© Masaledar 105,5,1820.26
+Pizza Junction 129,3.6,1771.41
+Annapurna Bhavan 194,4,1689.4199999999998
+Biryani House 64,3.2,1661.39
+Curry Kingdom 210,3.5,1572.84
+Tandoori Nights 247,4.3,1546.1100000000001
+Punjabi Dhaba 11,3.9,1506.56
+Dragon Wok 7,4.5,1494.43
+Taste of Punjab 231,4.4,1491.6200000000001
+Mumbai Masala 15,4.7,1491.48
+Royal Tandoor 72,4.1,1489.4
+Chai & Chat 1,4.5,1433.17
+The Curry Leaf 192,4.8,1334.08
+Madras Cafe 298,4.7,1295.28
+Curry Kingdom 144,4.6,1287.3799999999999
+Golden Spoon 208,4.2,1245.43
+Delhi Darbar 39,4.5,1233.3200000000002
+Chai & Chat 258,4.4,1215.24
+Chai & Chat 82,3.6,1187.64
+The Hungry Panda 75,3.1,1137.96
+Kolkata Kitchen 178,4.9,1137.91
+Rasoi Ghar 22,4.6,1116.8899999999999
+Punjabi Dhaba 23,3.5,1091.5
+Burger Factory 197,3,1080.04
+Mughal Mahal 36,4.8,1072.45
+The Curry Leaf 29,4,1037.13
+Bombay Bistro 68,5,994.4900000000001
+Mumbai Masala 30,3.3,990.89
+Taste of Punjab 283,4.9,937.8799999999999
+CafÃ© Masaledar 165,4.1,936.52
+The Hungry Panda 5,4.1,887.0799999999999
+The Curry Leaf 151,3.2,876.22
+The Food Studio 153,3.3,872.21
+Mughal Mahal 131,4.4,820.54
+The Curry Leaf 2,4.5,681.24
+Mughal Mahal 279,3.3,662.54
+Biryani House 241,4.7,657.54
+Chai & Chat 282,4.7,590.52
+Flavours of India 216,3.5,582.4100000000001
+The Food Studio 42,3.1,579.9000000000001
+Urban Tadka 152,3.7,575.6000000000001
+Delhi Darbar 113,3.6,568.12
+Taste of Punjab 217,4.6,558
+Curry Kingdom 10,4.2,474.80999999999995
+Biryani House 114,4.3,452.08000000000004
+Tandoori Nights 246,3.9,450.15000000000003
+Urban Tadka 262,3.5,353.45000000000005
+Madras Cafe 273,3.8,337.59000000000003
+Biryani House 76,3.2,313.04
+Chutney Express 271,4.5,309.44
+Curry Kingdom 116,4.2,299.43
+Punjabi Dhaba 106,3,233.75
+Mughal Mahal 245,5,178.45
+Bombay Bistro 189,3.5,172.20000000000002
+Dragon Wok 224,4.1,137.26000000000002
+Punjabi Dhaba 57,3.4,74.42000000000002
+Chai & Chat 65,4.9,22.25
